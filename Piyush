@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Piyush Mishra | Portfolio</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header, section { padding: 20px; max-width: 900px; margin: auto; }
+    header { background: #333; color: white; text-align: center; }
+    h1, h2 { margin-bottom: 10px; }
+    .section-title { color: #444; border-bottom: 2px solid #ccc; padding-bottom: 5px; margin-top: 30px; }
+    ul { padding-left: 20px; }
+    .project, .education-entry, .experience-entry { margin-bottom: 15px; }
+    footer { background: #333; color: white; text-align: center; padding: 10px; }
+    a { color: #0077cc; text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Piyush Mishra</h1>
+    <p>Final-year B.Tech CSE Student | Full Stack Developer Intern</p>
+    <p>Kushinagar, Uttar Pradesh | +91 7052106456 | <a href="mailto:pm811217@gmail.com">pm811217@gmail.com</a></p>
+    <p><a href="https://www.linkedin.com/in/piyushmishra16" target="_blank">LinkedIn Profile</a></p>
+  </header>
+
+  <section>
+    <h2 class="section-title">Professional Summary</h2>
+    <p>Motivated and detail-oriented final-year B.Tech student in Computer Science and Engineering with hands-on experience in full stack development. Proficient in Java, Python, HTML, CSS, and MySQL. Strong problem-solving skills and eager to contribute to software development teams.</p>
+  </section>
+
+  <section>
+    <h2 class="section-title">Education</h2>
+    <div class="education-entry">
+      <strong>B.Tech in Computer Science and Engineering</strong><br>
+      Shri Ramswaroop Memorial University, 2018–2025
+    </div>
+    <div class="education-entry">
+      <strong>Bachelor of Arts (Distance Education)</strong><br>
+      IGNOU, 2021–2025
+    </div>
+    <div class="education-entry">Intermediate (U.P. Board), 2021</div>
+    <div class="education-entry">High School (C.B.S.E.), 2018</div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Technical Skills</h2>
+    <ul>
+      <li>Languages: Java, Python</li>
+      <li>Web Development: HTML, CSS, JavaScript</li>
+      <li>Databases: MySQL, MongoDB</li>
+      <li>Tools: Git, Microsoft Office</li>
+      <li>Basics of Data Structures & Algorithms</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Projects</h2>
+    <div class="project">
+      <strong>Student Result Management System</strong><br>
+      Java, MySQL, Swing<br>
+      A desktop application to manage student grades and records using Java and MySQL.
+    </div>
+    <div class="project">
+      <strong>Portfolio Website</strong><br>
+      HTML, CSS, JavaScript<br>
+      A responsive website to showcase personal and academic projects.
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Internship Experience</h2>
+    <div class="experience-entry">
+      <strong>Full Stack Development Intern</strong><br>
+      Softpro India, Lucknow (Sep 2024 – Nov 2024)<br>
+      <ul>
+        <li>Worked on front-end with HTML, CSS, and JavaScript</li>
+        <li>Assisted in backend development using Java and MySQL</li>
+        <li>Collaborated using Git and improved responsive design</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2 class="section-title">Certifications & Achievements</h2>
+    <ul>
+      <li>Course on Computer Concepts (CCC)</li>
+      <li>PMG Disha Digital Literacy</li>
+      <li>Hackathon Participant</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Languages</h2>
+    <ul>
+      <li>Hindi (Native)</li>
+      <li>English (Fluent)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2 class="section-title">Personal Details</h2>
+    <ul>
+      <li>Date of Birth: 13/05/2002</li>
+      <li>Nationality: Indian</li>
+      <li>Gender: Male</li>
+      <li>Place: Kushinagar</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Piyush Mishra. All rights reserved.
+  </footer>
+
+</body>
+</html>
